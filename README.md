@@ -1,5 +1,5 @@
 # SICSS-Virtual-Lecture 2023
-## Virtual Lecture at the Summer Institute of Computational Social Sciences (SICSS)
+## [Virtual Lecture](https://sicss.io/2023/calabar/) at the Summer Institute of Computational Social Sciences (SICSS)
 
 The 2023 SICSS event was organized in Calabar State, Nigeria where I had the privilege of being a [speaker](https://sicss.io/2023/calabar/people) for the event, and I delivered virtual lectures on the following topics:
 - Social Science Data Modeling with R
