@@ -11,4 +11,4 @@ For the first presentation, participants learned to test and develop theories, u
 For the second presentation, participants learned the process of extracting data from websites. The purpose was to show participants how to gather data for various purposes such as research, analysis, and integration into applications. <br><br>
 ![Web Scraping with R](https://github.com/elijah-appiah/SICSS-Virtual-Lecture/blob/main/sicss%20web%20scraping.png)
 <br><br><br>
-**The PowerPoint files are uploaded to this repository for your reference.**
+### The PowerPoint files are uploaded to this repository for your reference.
