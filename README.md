@@ -6,7 +6,9 @@ The 2023 SICSS event was organized in Calabar State, Nigeria where I had the pri
 - Web Scraping with R
 
 For the first presentation, participants learned to test and develop theories, understand complex relationships between variables, generate new hypothesis and research questions, make data-driven decision-making, and communicate findings.
-
+![Social Science Data Modeling with R](https://github.com/elijah-appiah/SICSS-Virtual-Lecture/blob/main/sicss%20data%20modeling.png)
 
 For the second presentation, participants learned the process of extracting data from websites. The purpose was to show participants how to gather data for various purposes such as research, analysis, and integration into applications.
+![Web Scraping with R](https://github.com/elijah-appiah/SICSS-Virtual-Lecture/blob/main/sicss%20web%20scraping.png)
 
+The PowerPoint files are uploaded to this repository for your reference.
